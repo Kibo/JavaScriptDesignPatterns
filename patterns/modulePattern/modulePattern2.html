@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Module</title>
+	</head>
+<body>
+<script>
+var s,
+NewsWidget = {
+
+  settings: {
+    numArticles: 5,
+    articleList: $("#article-list"),
+    moreButton: $("#more-button")
+  },
+
+  init: function() {
+    s = this.settings;
+    this.bindUIActions();
+  },
+
+  bindUIActions: function() {
+    s.moreButton.on("click", function() {
+      NewsWidget.getMoreArticles(s.numArticles);
+    });
+  },
+
+  getMoreArticles: function(numToGet) {
+    // $.ajax or something
+    // using numToGet as param
+  }
+
+};
+
+(function() {
+
+  NewsWidget.init();
+
+  SomeOtherModule.init();
+
+})();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Module</title>
+	</head>
+<body>
+<script>
+var myRevealingModule = (function(){
+	var name = 'John Smith';
+	var age = 40;
+	
+	function updatePerson(){
+		name = 'John Smith Updated';
+	}
+	
+	function setPerson () {
+		name = 'John Smith Set';
+	}
+	
+	function getPerson () {
+		return name;
+	}
+		
+	return {
+		set: setPerson,
+		get: getPerson
+	};
+}());
+
+// Sample usage:
+myRevealingModule.get();
+
+</script>
+</body>
+</html>
+
