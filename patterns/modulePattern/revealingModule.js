@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Module</title>
-	</head>
-<body>
-<script>
 var myRevealingModule = (function(){
 	var name = 'John Smith';
 	var age = 40;
@@ -31,7 +23,4 @@ var myRevealingModule = (function(){
 // Sample usage:
 myRevealingModule.get();
 
-</script>
-</body>
-</html>
 

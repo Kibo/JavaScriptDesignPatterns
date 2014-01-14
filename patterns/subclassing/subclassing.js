@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Subclassing</title>
-	</head>
-<body>
-<script>
-
 /**
  * @constructor
  */
@@ -70,7 +61,4 @@ var linus = new Hero("Linus", "Torvalds");
 linus.hello();
 linus.goodbye("good bye");	
 
-</script>
-</body>
-</html>
 

@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Observer pattern</title>
-	</head>
-<body>
-<script>
 /*
  * Arguably, the largest benefit of using Pub/Sub is 
  * the ability to break down our applications into smaller, 
@@ -90,7 +82,3 @@ pubsub.publish('example1', [{
 }, {
 'text': 'hello'
 }]);
-	
-</script>
-</body>
-</html>

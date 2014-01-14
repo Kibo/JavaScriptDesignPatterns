@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Module</title>
-	</head>
-<body>
-<script>
 var myNamespace = (function () {
 	var myPrivateVar = 0;
 	var myPrivateMethod = function (someText) {
@@ -24,6 +16,4 @@ var myNamespace = (function () {
 
 myNamespace.myPublicFunction("testa");
 
-</script>
-</body>
-</html>
+

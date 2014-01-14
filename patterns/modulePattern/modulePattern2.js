@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Module</title>
-	</head>
-<body>
-<script>
 var s,
 NewsWidget = {
 
@@ -41,6 +33,3 @@ NewsWidget = {
 
 })();
 
-</script>
-</body>
-</html>

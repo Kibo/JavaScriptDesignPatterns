@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Singleton</title>
-	</head>
-<body>
-<script>
-
 var Singleton = (function () {
 	var instantiated;
 	
@@ -34,7 +25,4 @@ var Singleton = (function () {
 // calling public methods is then as easy as:
 Singleton.getInstance().publicMethod();			
 
-</script>
-</body>
-</html>
 

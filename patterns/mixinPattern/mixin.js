@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Mixin</title>
-	</head>
-<body>
-<script>
-
 /**
  * @constructor
  */
@@ -50,8 +41,4 @@ function mixin (receivingClass, givingClass, methodNames){
 //-- EXAMPLE --
 var john = new Person("John Lennon");	
 john.hello();	
-
-</script>
-</body>
-</html>
 
