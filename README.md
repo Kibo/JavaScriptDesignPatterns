@@ -7,5 +7,5 @@
 - [Subclassing](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/subclassing)
 - [Mixin pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mixinPattern)
 - [Namespace patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/namespace)
-- [Static members patterns] (#)
+- [Static members patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
 
