@@ -8,5 +8,5 @@
 - [Mixin pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mixinPattern)
 - [Namespace patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/namespace)
 - [Static members patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
-- [Function.prototype.bind] (#)
+- [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
 
