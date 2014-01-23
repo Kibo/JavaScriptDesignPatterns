@@ -9,5 +9,5 @@
 - [Namespace patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/namespace)
 - [Static members patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
 - [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
-- [Factory method] (#)
+- [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
 
