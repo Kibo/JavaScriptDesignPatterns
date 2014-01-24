@@ -10,4 +10,5 @@
 - [Static members patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
 - [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
 - [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
+- [Iterator] (#)
 
