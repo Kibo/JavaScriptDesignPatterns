@@ -11,4 +11,5 @@
 - [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
 - [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
 - [Iterator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/iterator)
+- [Decorator] (#)
 
