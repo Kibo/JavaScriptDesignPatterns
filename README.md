@@ -1,6 +1,6 @@
 # JavaScript Design Pattern
 
-Some mentioned design patterns are inspired, slightly adapted or adopted by the book:
+Some mentioned design patterns are inspired, slightly adapted or adopted by the book:<br>
 [JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do) <br>
 
 - [Singleton pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
@@ -14,5 +14,5 @@ Some mentioned design patterns are inspired, slightly adapted or adopted by the 
 - [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
 - [Iterator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/iterator)
 - [Decorator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/decorator)
-- [Strategy] (#)
+- [Strategy] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/strategy)
 
