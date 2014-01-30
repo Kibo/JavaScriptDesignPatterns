@@ -2,6 +2,7 @@
 
 Some mentioned design patterns are inspired, slightly adapted or adopted by the book:<br>
 [JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do) <br>
+This reference is then placed directly in the source file.
 
 - [Singleton pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
 - [Module patterns](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/modulePattern)
