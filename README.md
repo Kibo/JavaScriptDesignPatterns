@@ -1,5 +1,7 @@
 # JavaScript Design Pattern
-###My favorite design patterns
+
+Some mentioned design patterns are inspired, slightly adapted or adopted by the book:
+[JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do) <br>
 
 - [Singleton pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
 - [Module patterns](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/modulePattern)
@@ -11,5 +13,6 @@
 - [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
 - [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
 - [Iterator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/iterator)
-- [Decorator] (#)
+- [Decorator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/decorator)
+- [Strategy] (#)
 
