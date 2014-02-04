@@ -16,4 +16,5 @@ This reference is then placed directly in the source file.
 - [Iterator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/iterator)
 - [Decorator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/decorator)
 - [Strategy] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/strategy)
+- [Mediator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mediator)
 
