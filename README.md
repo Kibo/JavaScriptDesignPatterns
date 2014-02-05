@@ -18,3 +18,5 @@ This reference is then placed directly in the source file.
 - [Strategy] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/strategy)
 - [Mediator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mediator)
 
+### Bonus
+- [utils](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/utils)
