@@ -1,16 +1,15 @@
 # JavaScript Design Pattern
 
 Some mentioned design patterns are inspired, slightly adapted or adopted by the book:<br>
-	[JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do) <br>
-This reference is then placed directly in the source file.
+	[JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do)
 
-- [Singleton pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
-- [Module patterns](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/modulePattern)
-- [Observer pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/observerPattern)
+- [Singleton](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
+- [Module](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/modulePattern)
+- [Observer](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/observerPattern)
 - [Subclassing](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/subclassing)
-- [Mixin pattern](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mixinPattern)
-- [Namespace patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/namespace)
-- [Static members patterns] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
+- [Mixin](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mixinPattern)
+- [Namespace] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/namespace)
+- [Static members] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/staticMembers)
 - [Function.prototype.bind] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/function)
 - [Factory method] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/factory)
 - [Iterator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/iterator)
