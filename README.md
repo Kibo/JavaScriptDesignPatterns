@@ -3,6 +3,7 @@
 Some mentioned design patterns are inspired, slightly adapted or adopted by the book:<br>
 	[JavaScript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do)
 
+###Core
 - [Singleton](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/singletonPattern)
 - [Module](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/modulePattern)
 - [Observer](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/observerPattern)
@@ -16,6 +17,9 @@ Some mentioned design patterns are inspired, slightly adapted or adopted by the 
 - [Decorator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/decorator)
 - [Strategy] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/strategy)
 - [Mediator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mediator)
+
+###DOM
+- [manipulation] (#)
 
 ### Bonus
 - [utils](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/utils)
