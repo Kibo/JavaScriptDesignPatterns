@@ -19,7 +19,7 @@ Some mentioned design patterns are inspired, slightly adapted or adopted by the 
 - [Mediator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mediator)
 
 ###DOM
-- [manipulation] (#)
+- [Manipulation] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/DOM/DOMmanipulation)
 
 ### Bonus
 - [utils](https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/utils)
