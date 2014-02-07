@@ -1,0 +1,45 @@
+<body>
+
+	<div id="click-wrap">
+		<button>
+			Click me: 0
+		</button>
+		<button>
+			Click me too: 0
+		</button>
+		<button>
+			Click me three: 0
+		</button>
+	</div>
+
+	<script>
+		/*
+		 * The event delegation pattern benefits
+		 * from the event bubbling and reduces the number of event listeners
+		 * attached to separate nodes. If there are 10 buttons inside a div element,
+		 * you can have one event listener attached to the div as opposed
+		 * to 10 listeners attached to each button.
+		 */
+
+		var wrapper = document.getElementsByClassName( "click-wrap" );
+		wrapper.addEventListener( 'click', myHandler, false );
+
+		function myHandler( e ) {
+
+			// ...
+			
+			// get event and source element
+			e = e || window.event;
+			src = e.target || e.srcElement;
+			
+			// filter - only button
+			if( src.nodeName.toLowerCase( ) !== "button" ) {
+				return;
+			}
+			
+			// ...
+		}
+
+	</script>
+
+</body>
