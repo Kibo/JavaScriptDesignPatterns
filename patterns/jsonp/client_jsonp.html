@@ -1,0 +1,29 @@
+<body>
+
+<script>
+/*
+ * JSONP (JSON with padding) is way to make remote requests. Unlike XHR, it’s not restricted by the same-domain browser policy.
+ */
+var photoManager = {
+	remoteRequest:function(){
+		var script = document.createElement("script");
+		script.src = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=photoManager.process&tags=monkey&tagmode=any&format=json";
+		document.body.appendChild(script);
+	},
+		
+	process:function(data){
+		
+		if (data.error) {
+			alert(data.error);
+		return;
+		}
+		
+		document.body.innerHTML = "Items: " + data.items.length;
+	},		
+};
+
+photoManager.remoteRequest();
+
+</script>
+</body>
+

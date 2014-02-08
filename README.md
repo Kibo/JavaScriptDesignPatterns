@@ -17,6 +17,7 @@ Some mentioned design patterns are inspired, slightly adapted or adopted by the 
 - [Decorator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/decorator)
 - [Strategy] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/strategy)
 - [Mediator] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/mediator)
+- [jsonp] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/jsonp)
 
 ###DOM
 - [Manipulation] (https://github.com/Kibo/JavaScriptDesignPatterns/tree/master/patterns/DOM/DOMmanipulation)
